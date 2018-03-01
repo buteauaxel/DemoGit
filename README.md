@@ -1,7 +1,5 @@
 # DemoGit
-##
-## *Nous avons vu plusieurs lignes de commandes :*
-
+## *Nous avons vu plusieurs lignes de commandes :*        
 * mkdi :
    >Permet de créer un dossier
 * init:
@@ -17,6 +15,10 @@
    
 La commande Pull est la combinaison des commandes Fetch et merge :
 
+> * Fetch récupère les modifications pour les stocker en local
+> * Merge fusionne les dépots
+
+
 ##  GitHub est *la* plateforme collaborative !
-  
-![gitHub](https://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=400)  
+    
+![gitHub](https://pubci.files.wordpress.com/2016/04/github-logo.jpg?w=256&h=256&crop=1)
