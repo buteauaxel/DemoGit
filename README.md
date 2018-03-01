@@ -1,6 +1,6 @@
 # DemoGit
 ## *Nous avons vu plusieurs lignes de commandes :*        
-* mkdi :
+* mkdir :
    >Permet de créer un dossier
 * init:
    >Initialisation du dépot Git
