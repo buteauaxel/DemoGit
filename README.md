@@ -17,6 +17,6 @@
    
 La commande Pull est la combinaison des commandes Fetch et merge :
 
-   GitHub est *la* plateforme collaborative !
-   ==========================================
+##  GitHub est *la* plateforme collaborative !
   
+![gitHub](https://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=400)  
