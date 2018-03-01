@@ -1,12 +1,12 @@
 # DemoGit
 ##
-*Nous avons vu plusieurs lignes de commandes :*
+## *Nous avons vu plusieurs lignes de commandes :*
 
-* **mkdi :
+* >mkdi :
   * **Permet de créer un dossier**
 * **init:
-  * **Initialisation du dépot Git**
+  * >Initialisation du dépot Git**
 * **status :
   * **Permet d'afficher les créations ou les modifications**
-* **rm :
+* >rm :
   * **Permet la suppression**
