@@ -1,2 +1,1 @@
-Je suis le deuxième
-après le premier
+La fusion des mondes
